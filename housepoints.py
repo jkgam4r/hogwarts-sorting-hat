@@ -1,5 +1,4 @@
-house_points = 150
-
+house_points = int(input("Input house points"))
 if house_points == 150:
     print(house_points == 150)
     

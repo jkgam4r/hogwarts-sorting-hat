@@ -6,3 +6,6 @@ if bravery == "yes":
     print("You belong in gryffindor")
 else:
     print("Maybe gryfindor is not for you.")
+    
+    
+    #hi kenzie

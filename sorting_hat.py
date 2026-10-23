@@ -7,5 +7,3 @@ if bravery == "yes":
 else:
     print("Maybe gryfindor is not for you.")
     
-    
-    #hi kenzie
